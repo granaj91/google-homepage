@@ -1,0 +1,95 @@
+.center-body {
+    padding: 150px 0;
+    text-align: center;
+    margin: auto;
+}
+.top-left-nav {
+    float: left;
+    text-align: center;
+    padding: 14px 5px 14px 14px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: black;
+}
+
+.top-right-nav {
+    float: right;
+    text-align: center;
+    padding: 14px 15px 14px 5px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px; 
+    color: black;
+}
+#google-apps {
+    margin: -3px;
+    width: 25px;
+    height: 25px;
+}
+#google-avatar{
+    margin: -6px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+}
+
+img {
+    margin: 10px;
+}
+#input-container{
+    position: relative;
+}
+#input {
+    width: 30%;
+    padding: 12px 0px 12px 40px;
+    margin: 10px;
+    border: 1px solid rgb(224, 223, 223);
+    border-radius: 20px;
+}
+#input-image{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 10px;
+    left: 420px;
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    background-color: #e6eef5cb;
+    border: none;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: rgb(234, 236, 238);
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+  }
+
+  .left-footer {
+    float: left;
+    text-align: center;
+    padding: 14px 10px 14px 18px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: black;
+  }
+
+  .right-footer{
+    float: right;
+    text-align: center;
+    padding: 14px 18px 14px 10px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px; 
+    color: black;
+  }
